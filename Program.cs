@@ -6,7 +6,8 @@ namespace lab1._2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MyApplication m = new MyApplication();
+            Console.ReadKey();
         }
     }
 }
